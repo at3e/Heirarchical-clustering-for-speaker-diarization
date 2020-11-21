@@ -1,1 +1,1 @@
-# Heirarchical-clustering-for-speaker-diarization
+# Hierarchical-clustering-for-speaker-diarization
